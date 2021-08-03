@@ -1,4 +1,4 @@
-## How To Create A Mock API In 4 Minutes
+## How To Create A Mock API In 7 Minutes
 
 In this article, we are going to create our own mock API (Application Programmable Interface). We are going to create an API about my favorite celebrity couple, Priyanka Chopra and Nick Jonas. We want this API to contain the couple's names and their wedding anniversary. However, before we start creating the mock API, some concepts have to be explained.
 ## What is API mocking?
