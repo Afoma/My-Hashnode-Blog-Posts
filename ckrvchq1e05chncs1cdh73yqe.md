@@ -182,53 +182,59 @@ server.listen(port);
 
 ```
 require('json-server')
-// this is where we import the json-server file, for us to be able to make use of the node module (json-server)
 
 ``` 
 
+-this is where we import the json-server file, for us to be able to make use of the node module (json-server)
+
 ```
 jsonServer.create()
-// here, we created the json-server, we only initially imported the file in line but we have not yet started making use of it.
-// this current line runs a function( the method- " create " ) inside the json server which will start the server
+-here, we created the json-server, we only initially imported the file in line but we have not yet started making use of it.
+-this current line runs a function( the method- " create " ) inside the json server which will start the server
 
 ``` 
 
 ```
 jsonServer.router('database.json')
-//  this line tells the server where to locate, store and get the file we are supposed to use as our storage, we use database.json file as our storage, as where we would keep everything that the json server is serving to us on the backend.
 
 ``` 
+
+-this line tells the server where to locate, store and get the file we are supposed to use as our storage, we use database.json file as our storage, as where we would keep everything that the json server is serving to us on the backend.
 
 ```
+
 jsonServer.defaults()
-// this line is where we say that we need just the default methods (the POST and GET method)
 
 ``` 
+
+-this line is where we say that we need just the default methods (the POST and GET method)
 
 ```
 process.env.PORT || 3000
-// this will set the environmental variable PORT so that the server will know what port it will listen on. It's either it listens to what is in the environmental variable PORT or it listens to 3000 if nothing is there to listen on the environmental variable PORT
+-this will set the environmental variable PORT so that the server will know what port it will listen on. It's either it listens to what is in the environmental variable PORT or it listens to 3000 if nothing is there to listen on the environmental variable PORT
 
 ``` 
 
 ```
 server.use(middlewares)
-// here, we tell our server to use the middleware that we created
 
 ``` 
+
+-here, we tell our server to use the middleware that we created
 
 ```
 server.use(router)
-// here, we tell our server to use the database we routed 
-
+ 
 ``` 
+
+-here, we tell our server to use the database we routed
 
 ```
+
 server.listen(port)
-// we are telling the server the particular port the app should run on
 
 ``` 
-
+-we are telling the server the particular port the app should run on
 
 ## The .gitignore file
 - We create a .gitignore file to specify to Git which files or folders to ignore and never track in our project.
@@ -249,17 +255,18 @@ git add .
 
 ```
 git commit -m"our message"
-// I will enter add server as my message
 
 ``` 
+I will enter add server as my message
 - Then we type
 
 ```
+
 git push origin whatever is our branch name
-// I will type in HEAD as the branch name
 
 ``` 
-If after you've done this and refreshed your Github page and the node modules are still there then you would have to clean your Git cache by entering this in your terminal : 
+I will type in HEAD as the branch name
+- If after you've done this and refreshed your Github page and the node modules are still there then you would have to clean your Git cache by entering this in your terminal : 
 
 ```
 git rm -r --cached .
@@ -275,16 +282,18 @@ then
 
 ```
 git commit -m"our message"
-// I will enter add server as my message
 
 ``` 
-then
+I will enter add server as my whatever
+- then
 
 ```
+
 git push -u origin whatever is our branch name
-// I will type in HEAD as the branch name
 
 ``` 
+- I will type in HEAD as the branch name
+
 ## Deploying to Heroku
 We can do this by downloading it and then installing it, for Windows users or entering this command in our terminal for Mac users
 
