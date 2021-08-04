@@ -1,6 +1,6 @@
 ## How To Create A Mock API In 7 Minutes
 
-In this article, we are going to create our own mock API (Application Programmable Interface). We are going to create an API about my favorite celebrity couple, Priyanka Chopra and Nick Jonas. We want this API to contain the couple's names and their wedding anniversary. However, before we start creating the mock API, some concepts have to be explained.
+In this article, we are going to create our own mock API (Application Programming Interface). We are going to create an API about my favorite celebrity couple, Priyanka Chopra and Nick Jonas. We want this API to contain the couple's names and their wedding anniversary. However, before we start creating the mock API, some concepts have to be explained.
 ## What is API mocking?
 To mock an API is to do what the word  " mock  " does, to closely behave like an API, although it could be lacking in many of the functional and non-functional characteristics of an original API . 
 During development, front-end developers who consume API are mostly ahead of the backend developers and might experience issues with consuming API from the backend developers because the API might not be developed yet, or the developed API might have performance or security or maintenance issues.
@@ -238,7 +238,7 @@ server.listen(port)
 node_modules
 
 ``` 
-this will help in making our project load faster
+this will prevent the node_modules folder from being sent to github, because it is really big. 
 - We go to our terminal and type
 
 ```
