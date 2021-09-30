@@ -1,6 +1,6 @@
-## Interviewing Clerck Hakathon Runner-up And Aviyel Dev Rel
+## Interviewing Clerk Hakathon Runner-up And Aviyel Dev Rel
 
-## Ayodele Samuel Ayodele was one of the Clerck Hakathon Runner-ups. 
+## Ayodele Samuel Ayodele was one of the Clerk Hakathon Runner-ups. 
 
 Question: 
 
