@@ -1,35 +1,40 @@
 ## Interviewing Clerk Hakathon Runner-up And Aviyel Dev Rel
 
-### The first person to be interviewed is @[Ayodele Samuel Adebayo](@unclebigbay) 
-Me: 
+I will share with you below an interview conversation between myself and one of the Clerk x @[hashnode](@hashnode) hackathon runner up @[Ayodele Samuel Adebayo(unclebigbay)](@unclebigbay) and @[Joshua Poddoku](@joshuapoddoku) a developer at Aviyel.
+
+The first person to be interviewed was @[Ayodele Samuel Adebayo](@unclebigbay), he is a freelance software developer from Nigeria and a technical writer here on Hashnode, he participated in Hashnode hackathons and one of his projects made it to the runner up.
+
+Below is the interview conversation with @unclebigbay on LinkedIn
+
+**👧 Me:**
 
 Hello Ayodele. Good afternoon.
 
-Ayodele:
+**👦🏽 Unclebigbay:**
 
 Hello. Good afternoon. How are you doing today?
 
-Me:
+**👧 Me:**
 
-I'm good, thanks. So, I'm part of the Hashnode technical writing BootCamp. And I would like to interview you. I hope you don't mind 😊. 
+I'm good, thanks. So, I'm part of the Hashnode technical writing BootCamp. And I would like to interview you. I hope you don't mind 😊.
 
-Ayodele:
+**👦🏽 Unclebigbay:**
 
 Oh nice, please go ahead.
 
-Me: 
+**👧 Me:**
 
 You are a very popular technical content creator. Two of your projects have been runner-ups in Hackathons, with many positive reviews about them, and many developers love to use your Developer Typing Game Platform, to many developers, it encourages them to build something brain-tasking like that, but to beginners, it can be an intimidating feat. What is your advice to developers who are still trying to get their feet steady in the dev world, what was your guide in creating those projects, what was your greatest challenge in building them too?
 
-Ayodele: 
+**👦🏽 Unclebigbay:**
 
 Thanks a lot, Afoma for these questions. Firstly, I will like to say I wasn't a pro when I built the developer typing game. In fact, it was the first time I worked with Node js and React together in a single project
 
-Me:
+**👧 Me:**
 
-Wow! So what motivated you to create something outside your comfort zone, what kind of resources were more useful to you, and what word of encouragement do you have to give to struggling developers? 
+Wow! So what motivated you to create something outside your comfort zone, what kind of resources were more useful to you, and what word of encouragement do you have to give to struggling developers?
 
-Ayodele:
+**👦🏽 Unclebigbay:**
 
 It wasn't easy though, never been easy but I know it is achievable. If Catalin and even my big cousin could do it, I should be able to do it too.
 I remember spending 5 days fixing a bug while building the developer typing game, but I didn't quit because I realized every tough time in web development is part of the journey and that's why I am always keeping it up. The same bug occurred in my second project and I was able to fix it in just 2 minutes.
@@ -48,45 +53,50 @@ My strongest motivation will be the end result and goosebumps when someone reach
 
 My advice to struggling developers will be; there is no one way to the market, everyone struggles, we just realized what works for us individually, just keep up with what you do, you will figure out your way.
 
-Me:
+**👧 Me:**
 
 Thank you for your time and patience.
 
-Ayodele:
+**👦🏽 Unclebigbay:**
 
-The pleasures are mine, the interview also helps me reflect on myself. I appreciate and enjoy sharing it with you. 
+The pleasures are mine, the interview also helps me reflect on myself. I appreciate and enjoy sharing it with you.
 
-### The next person to be interviewed is @[Joshua Poddoku](@joshuapoddoku)
+<hr />
 
-Me:
+The interview with @[Ayodele Samuel Adebayo](@unclebigbay) went well, so I proceeded to interview Mr. @[Joshua Poddoku](@joshuapoddoku) a developer relations & operations at Aviyel.
+<hr />
+
+Below is the interview conversation between @[Joshua Poddoku](@joshuapoddoku) and myself**
+
+👧 Me:**
 
 Hello, Joshua. Good afternoon.
 
-Joshua:
+**👦 Joshua:**
 
 Hey Afoma. Good afternoon. How are you?
 
-Me:
+**👧 Me:**
 
 I'm fine, thank you. So, I'm part of the Hashnode technical writing Bootcamp, and I would like to interview you. I hope you don't mind 😊.
 
-Joshua:
+**👦 Joshua:**
 
-That's great. Would love to take part. 
+That's great. Would love to take part.
 
-Me:
+**👧 Me:**
 
-What is your take on the contribution of developers to open source projects? 
+What is your take on the contribution of developers to open source projects?
 
-Joshua:
+**👦 Joshua:**
 
-Opensource is a great space to collaborate, learn, network, and make efforts to build tools and products with like-minded people. A personal benefit for Developers - they can scale up in a limited time and this accelerates opportunities. 
+Opensource is a great space to collaborate, learn, network, and make efforts to build tools and products with like-minded people. A personal benefit for Developers - they can scale up in a limited time and this accelerates opportunities.
 
-Me:
+**👧 Me:**
 
 Can you tell us the role of Aviyel in open source space?
 
-Joshua:
+**👦 Joshua:**
 
 Aviyel is a bridge between content creators and Opensource by building monetized and independent ecosystems for the spaces.
 
@@ -94,12 +104,11 @@ Opensource project maintainers rely on GitHub sponsorships, Patreon, Buy me a Co
 
 Monetising the creator community will give direct access to creators and maintainers to become independent and leverage the power of Opensource.
 
-Me:
+**👧 Me:**
 
 Very interesting! Could you please throw more light on this?
 
-Joshua:
-
+**👦 Joshua:**
 There are a lot of communities that are monetized, including Toptal - a monetized freelancer community, Netflix - creator community in entertainment, Twitch - creator community in gaming.
 
 Only Opensource space isn't monetized yet.
@@ -108,15 +117,32 @@ We've built an events platform for Opensource projects to showcase and Livestrea
 
 Anyone who has an Open-source project can be a part of it.
 
-Me:
+**👧 Me:**
 
-This is eye-opening. Thank you very much for your time and patience. 
+This is eye-opening. Thank you very much for your time and patience.
 
-Joshua:
+**👦 Joshua:**
 
 Thank you too for reaching out. It's my pleasure always.
 
-Me:
+**👧 Me:**
+
 
 😊
 
+
+<hr />
+
+
+And that is the end of the chat interview session I had with @unclebigbay and @[Joshua Poddoku](@joshuapoddoku), I hope you find it helpful.
+You can also connect with us on Linkedin using the links below.
+
+
+-
+[Connect with Afoma Orji on LinkedIn](https://www.linkedin.com/in/afomaorji/) 
+
+-
+[Connect with unclebigbay on LinkedIn](https://www.linkedin.com/in/joshuapod/)
+
+-
+[Connect with Joshua Poddoku on LinkedIn](https://www.linkedin.com/in/unclebigbay/)
