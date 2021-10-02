@@ -22,7 +22,7 @@ There are many positive reviews about Auth0's security features with respect to
 
 In addition to that, Auth0's documentations show finesse, intelligence, and scrupulous editing on the part of the writers and the editors. 
 
-From my research, I have learned that Auth0 pays well per article published by freelance technical writers. 
+From my research, I have learned that Auth0 pays very well per article published by freelance technical writers. 
 
 ## freeCodeCamp
 Almost every developer, especially self-taught developers must have come across freeCodeCamp as the platform where people learn everything about software development in an organized path for FREE. 
