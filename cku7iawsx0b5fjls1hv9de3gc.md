@@ -1,4 +1,4 @@
-## Tech Companies I Am Excited To Write For
+## Tech Companies I Would Love To Write For
 
 Technical writing is a branch of content creation and it is one of the many means by which software developers make their income. Writing articles on your personal blog not only creates reference materials for your future use, but also gives you a wider audience that for you to create resourceful content to developers, designers, managers, and other people in tech by writing documentation for companies in need of documentation (which company doesn't need documentation by the way).
 
