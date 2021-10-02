@@ -1,8 +1,8 @@
-## Tech Companies I Am Excited To Work For
+## Tech Companies I Am Excited To Write For
 
 Technical writing is a branch of content creation and it is one of the many means by which software developers make their income. Writing articles on your personal blog not only creates reference materials for your future use, but also gives you a wider audience that for you to create resourceful content to developers, designers, managers, and other people in tech by writing documentation for companies in need of documentation (which company doesn't need documentation by the way).
 
-Below are some of the tech companies I am excited to work for and why I would love to work for them.
+Below are some of the tech companies I am excited to write for and why I would love to write for them.
 
 ## Auth0 (Pronounced Auth Zero)
 What is Auth0 ? 
@@ -11,7 +11,7 @@ Auth0 is a platform that offers authentication and authorization solutions to ap
 
 Creating a Twitter account requires authentication, the ability to access Twitter's admin dashboard requires authorization, and, ability to log in after creating an account requires authentication. Knowing what Auth0 can do, it implies that when we are building our applications,  we would focus on creating other features in the application, and use Auth0 to handle providing authentication and authorization solutions for our applications, instead of creating our authentication and authorization services from scratch. 
 
-### Why I would love to work for Auth0
+### Why I would love to write for Auth0
 There are many positive reviews about Auth0's security features with respect to
 - API
 - Access Controls / Permissions
