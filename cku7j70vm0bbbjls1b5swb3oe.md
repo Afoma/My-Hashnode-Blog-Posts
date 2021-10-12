@@ -9,14 +9,12 @@ In Web1, content creators (developers) were very few and users were mere consume
 ## Web2
 
 In Web2, software applications were built upon the web and not upon the desktop, and it runs on a single server. Web2 brought about the creation of Facebook, Instagram, Snapchat, Youtube, and many applications that we enjoy today. Web2 had applications and websites with a dynamic and lively view unlike Web1.
- 
-##Web2
 
-Pros 
+### Pros 
 
 In Web2, users were not mere consumers, but also could create content even without the knowledge of programming, by uploading videos, pictures, and, articles. 
 
-Cons
+### Cons
 
 Web2's business model of operation generated a lot of mistrust when users found out that their activities on the web were sold to third-party agencies and in turn, owned by those agencies, without the consent of the users.
 
@@ -31,6 +29,6 @@ With Web3, the words decentralized applications, commonly called dapps, came int
 
 Here, applications wouldn't be built upon a single server, however, they run on decentralized servers, and data is stored on blockchains, hence, why the apps are called decentralized applications. 
 
-Pros
+### Pros
 
 Web3 will be incomparably better than Web2, in terms of compensation of creators, security, privacy, and, ownership of content.
