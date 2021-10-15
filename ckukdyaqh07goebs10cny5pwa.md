@@ -38,7 +38,8 @@ This almost wrecked me for good. Going to Twitter, I saw developers who were far
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VekAzfpZIcLLEpGyKR" width="100%" height="100%" style= frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/seizetheawkward-mental-health-how-are-you-seize-the-awkward-VekAzfpZIcLLEpGyKR"></a></p>
 
 ### Taking one step at a time
-Going to Twitter, one might go crazy if one is not careful, by the time one would be seeing Tweets telling you all the JavaScript frameworks, languages, and, tools to learn before the end of the year. I started avoiding this problem by clearly writing the things I wanted to learn so that I wouldn't be overwhelmed with the stress of not knowing where to start from, and if at all I wanted to digress just a little, having the list would help me to add just one or two goals to the list without going completely off course. 
+Going to Twitter, one might go crazy if one is not careful, by the time one would be seeing Tweets telling you all the JavaScript frameworks, languages, and, tools to learn before the end of the year. 
+I started avoiding this problem by clearly writing the things I wanted to learn so that I wouldn't be overwhelmed with the stress of not knowing where to start from, and if at all I wanted to digress just a little, having the list would help me to add just one or two goals to the list without going completely off course. 
 
 <hr>
 
@@ -77,18 +78,26 @@ I had disappointed myself many times in the past, on my journey to web developme
 <div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/IKsbfYjDogdkk" width="100%" height="100%" style= frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IKsbfYjDogdkk"></a></p>
 
 ### Learning and building in public
-I always see the amazing benefits this has caused in the lives of people who follow this rule. Last year, when I started frequenting my visits to tech Twitter and LinkedIn, but then I was intimidated by the guts some developers had - that of writing and sharing their knowledge and journey on Twitter and LinkedIn. I was wrong to think that one must be advanced in tech to be able to share one's journey or knowledge. It was later that I discovered that some of those people were actually learning and building in public, they didn't wait till they knew it all before they started learning and building in public. 
+I always see the amazing benefits this has caused in the lives of people who follow this rule. Last year, when I started frequenting my visits to tech Twitter and LinkedIn, but then I was intimidated by the guts some developers had - that of writing and sharing their knowledge and journey on Twitter and LinkedIn. 
+
+I was wrong to think that one must be advanced in tech to be able to share one's journey or knowledge. It was later that I discovered that some of those people were actually learning and building in public, they didn't wait till they knew it all before they started learning and building in public. 
 
 On the other hand, I have heard and seen many people in tech who don't build or learn in public make derogatory comments about those who build and learn in public, comments that portray those public learners and builders as people who are only intelligent in social media, but not in real life. To address this derogatory comment, I would refer us to Shawn Wang's article on  [Learning and Building in Public](https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5). 
 
-One of the good things I have noticed from learning and building in public is that it pushes you out of your comfort zone, to learn more because of the attention you have brought upon yourself, it challenges you to be consistent, and to top it up when you have many followers you have to never disappoint those people that believed in you enough to follow you, but to keep growing and giving value and to keep encouraging them in their path by not giving up in your path. I created a new Twitter handle two months ago, and I can only say that I wish I started doing this earlier. However, it is not too late, and with the experience that  I have had from the past when practicing this, I always remember to see tech tweeting and posting as journaling and not a mere hunt for followers. 
+One of the good things I have noticed from learning and building in public is that it pushes you out of your comfort zone, to learn more because of the attention you have brought upon yourself, it challenges you to be consistent, and to top it up when you have many followers you have to never disappoint those people that believed in you enough to follow you, but to keep growing and giving value and to keep encouraging them in their path by not giving up in your path. 
+
+I created a new Twitter handle a month ago, and I can only say that I wish I started doing this earlier. However, it is not too late, and with the experience that  I have had from the past when practicing this, I always remember to see tech tweeting and posting as journaling and not a mere hunt for followers. 
 
 <hr>
 
 <div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/lXC2gmHf2ypUs" width="100%" height="100%" style= frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lXC2gmHf2ypUs"></a></p>
 
 ### Lifestyle changes
-Eating and sleeping well, exercising, and occasionally indulging in some distractions like watching movies, giving myself an eating-out treat, swimming lessons, engaging in conversations with my family members and close friends is helping me tremendously. I used to feel guilty for wanting to have a good night's sleep and for loving food, so I cut down on my sleeping and eating patterns. Not eating and sleeping well made me have a terrible burnout that took months to get over. Now I make sure to have a good night's sleep and eat good food.  I've learned that everybody needs exercise and that it unclogs the brain of things that can slow its performance. It also supplies oxygen to the brain and releases the feel-good hormone called Dopamine. Exercise makes me feel alive, and gives me that feeling of having a new brain and looking at problems with fresh eyes.
+Eating and sleeping well, exercising, and occasionally indulging in some distractions like watching movies, giving myself an eating-out treat, swimming lessons, engaging in conversations with my family members and close friends is helping me tremendously. 
+
+I used to feel guilty for wanting to have a good night's sleep and for loving food, so I cut down on my sleeping and eating patterns. Not eating and sleeping well made me have a terrible burnout that took months to get over. Now I make sure to have a good night's sleep and eat good food.  
+
+I've learned that everybody needs exercise and that it unclogs the brain of things that can slow its performance. It also supplies oxygen to the brain and releases the feel-good hormone called Dopamine. Exercise makes me feel alive, and gives me that feeling of having a new brain and looking at problems with fresh eyes.
 
 <hr>
 
