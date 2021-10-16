@@ -1,8 +1,6 @@
-## Tech Companies I Would Love To Work For
+## Tech Companies I Am Excited To Work For
 
-Technical writing is a branch of content creation and it is one of the many means by which software developers make their income. Writing articles on your personal blog not only creates reference materials for your future use, but also gives you a wider audience for you to create resourceful content for developers, designers, managers, and other people in tech by writing documentation for companies in need of documentation (which company doesn't need documentation by the way).
-
-Below are some of the tech companies I am excited to work for and why I would love to work for them.
+There are many tech companies that I am excited to work for. Below are some of the tech companies I am excited to work for and why I would love to work for them.
 
 ## Auth0 (Pronounced Auth Zero)
 What is Auth0 ? 
@@ -12,7 +10,9 @@ Auth0 is a platform that offers authentication and authorization solutions to ap
 I would like to briefly give a real life example of authentication and authorization. Let's say I want to create a Twitter account.
 Creating a Twitter account requires authentication, the ability to access Twitter's admin dashboard requires authorization, and, ability to log in after creating an account requires authentication. Knowing what Auth0 can do implies that when we are building our applications,  we would focus on creating other features in the application, and use Auth0 to handle providing authentication and authorization solutions for our applications, instead of creating our authentication and authorization services from scratch. 
 
-### Why I would love to work for Auth0
+This technical boot camp organized by Hashnode's @[Sam Sycamore](@tanoaksam) made me to become fascinated about Auth0.
+
+### Why would I love to work for Auth0?
 There are many positive reviews about Auth0's security features with respect to
 - API
 - Access Controls / Permissions
@@ -32,8 +32,7 @@ Almost every developer, especially self-taught developers must have come across 
 
 Did you know that it employs a lot of developers as freelance technical writers ? All you need do is submit 3 of your articles to them and pitch yourself. 
 
-Many software developers who write technical articles for freeCodeCamp have testified to me why they enjoy writing for freelance, starting from the excellent editing which makes you improve as a writer, to the wide audience which exposes you and your content to millions of readers, 
-and the payment for writing your article.
+Many software developers who write technical articles for freeCodeCamp have testified to me why they enjoy writing for freeCodeCamp with regards to the excellent editing which makes you improve as a writer and the wide audience comprising of  millions of readers that you and your content will be exposed to.
 
 One of the things that also strike me about writing on freeCodeCamp is that you still own your work. A serious win win situation. 
 
