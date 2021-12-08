@@ -1,10 +1,12 @@
 ## Ever Heard Of The Term - Hyperverse?
 
-Falling into the Web3 rabbit hole two months ago is something that I don't intend to come out of anytime soon. The many things to learn, connections made, and juicy opportunities are more than enough to keep me sufficiently distracted from any annoying thing around.
+Falling into the Web3 rabbit hole not long ago is something that I don't intend to come out of anytime soon. The many things to learn, connections made, and juicy opportunities are more than enough reasons to keep me sufficiently engrossed in all things Web3.
 
-Inside the Web3 rabbit hole, I saw the seemingly yet unknown, or better put, the not very well-known keyword - hyperverse, learned about it from a very competent source, and would like to share what I learned with you.
+Inside the Web3 rabbit hole, I discovered the seemingly yet unknown, or better put, the not very well-known keyword - hyperverse and learned about it from a very competent source. It is my greatest pleasure to share what I learned with you.
 
-The hyperverse is a open, decentralized marketplace which is not tied to a single blockchain. This implies that it could work not only with the ethereum blockchain platform, but can also work with other blockchains like flow and algorand. The Hyperverse is made up of four features:
+The hyperverse is an open, decentralized marketplace which is not tied to a single blockchain. This implies that it could work, not only with the ethereum blockchain, but can also work with other blockchains like flow and algorand.
+
+The Hyperverse is made up of four features:
 
 
 1. Development
