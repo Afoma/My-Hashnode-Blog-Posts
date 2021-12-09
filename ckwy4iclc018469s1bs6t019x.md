@@ -50,9 +50,9 @@ Another example is the Unsplash API which many front-end developers consume to b
 
 In the case of smart modules, the Hyperverse engineers create smart modules, which are composed of a smart contract, metadata, unit tests, and documentation, which could be an NFT marketplace module, and the front end engineers create the UI which will enable different users to interact with those decentralized applications (dapps) with their unique data. In the Hyperverse, this ability of different users with their own data to interact with the dapps built on smart modules is called "multi-tenancy". 
 
-## How does this new understanding of the hyperverse relate to me ?
+## How does this new understanding of the hyperverse relate to me?
 
-First of all, what drew me into Web3 was NFTs. The story of people making money by selling pixelated art works in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of art works, and with this I could imagine how applicable it could be to the hyperverse. 
+First of all, what drew me into Web3 was Non-Fungible Tokens (NFTs). The story of people making money by selling pixelated art works in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of art works, and with this I could imagine how applicable it could be to the hyperverse. 
 
 ### NFT Search Engine Smart Module
 
