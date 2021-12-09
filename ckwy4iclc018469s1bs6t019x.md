@@ -4,7 +4,7 @@ Falling into the Web3 rabbit hole not long ago is something that I don't intend 
 
 Inside the Web3 rabbit hole, I discovered the seemingly yet unknown, or better put, the not very well-known keyword - hyperverse and learned about it from a very competent source. It is my greatest pleasure to share what I learned with you.
 
-The hyperverse is an open, decentralized marketplace which is not tied to a single blockchain. This implies that it could work, not only with the ethereum blockchain, but can also work with other blockchains like flow and algorand.
+The hyperverse is an open, decentralized marketplace that is not tied to a single blockchain. This implies that it could work, not only with the ethereum blockchain, but can also work with other blockchains like flow and algorand.
 
 The Hyperverse is made up of four features:
 
@@ -36,7 +36,7 @@ Since the hyperverse is decentralized, anybody on the hyperverse can built a cus
 
 To encourage the active participation of people in the hyperverse. Whosoever contributes in any way to a fee-based smart module or stakes tokens on it will be paid each time the smart module is used forever.
 
-Since there is no hypervers without smart modules. Let us elaborate more on smart modules. 
+Since there is no hyperverse without smart modules. Let us elaborate more on smart modules. 
 
 
 ## What are smart modules?
@@ -50,15 +50,15 @@ Another example is the Unsplash API which many front-end developers consume to b
 
 In the case of smart modules, the Hyperverse engineers create smart modules, which are composed of a smart contract, metadata, unit tests, and documentation, which could be an NFT marketplace module, and the front end engineers create the UI which will enable different users to interact with those decentralized applications (dapps) with their unique data. In the Hyperverse, this ability of different users with their own data to interact with the dapps built on smart modules is called "multi-tenancy". 
 
-## How does this new understanding of the hyperverse relate to me?
+## Having had a good understanding of what the hyperverse is, what can I make out of it?
 
-First of all, what drew me into Web3 was Non-Fungible Tokens (NFTs). The story of people making money by selling pixelated art works in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of art works, and with this I could imagine how applicable it could be to the hyperverse. 
+First of all, what drew me into Web3 was Non-Fungible Tokens (NFTs). The story of people making money by selling pixelated artworks in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of artworks, and with this, I could imagine how applicable it could be to the hyperverse. 
 
 ### NFT Search Engine Smart Module
 
 My learnings about potential use cases of NFTs have helped me to dream widely about what I would like to do on the hyperverse. 
 
-I would love to build an NFT search smart module on the hyperverse. With this particular smart module, a search engine designed solely for the discovery of a particular type of NFT, be it art work NFTs, music NFTs, real estate NFTs, medical NFTs, ticketing NFTs, etc.
+I would love to build an NFT search smart module on the hyperverse. With this particular smart module, a search engine is designed solely for the discovery of a particular type of NFT, be it art work NFTs, music NFTs, real estate NFTs, medical NFTs, ticketing NFTs, etc.
 
 My motivation for desiring to do this is to create a more streamlined experience for users on the NFT marketplace in order to serve a more enjoyable and efficient experience for users in the marketplace.
 
@@ -68,11 +68,11 @@ Twitter is one of my favorite social media applications. I understand it to be a
 
 However, many articles and reviews have shown the dissatisfaction of people with the user experience of the bird app. With many citing the censorship and banning of accounts whose opinions differed from other groups on Twitter.
 
-With this controversy, I also dream of building a social media smart module on the hyperverse which is very similar to Twitter and name it Dwitter ( Decentralized Twitter). This way any decision that will be taken will have to be a collective decision based on the majority of users.
+With this controversy, I also dream of building a social media smart module on the hyperverse which is very similar to Twitter, and name it Dwitter ( Decentralized Twitter). This way any decision that will be taken will have to be a collective decision based on the majority of users.
 
 ## Conclusion
 
-My sincerest appreciation goes to the super team at Decentology starting from Nik Kalyani, Bekah, Samina, and Jacob for answering my never ending questions on the Hyperverse, Web3 and NFTs, and for providing me with enough resources to enable me to understand what the hyperverse is all about.
+My sincerest appreciation goes to the super team at Decentology starting from Nik Kalyani, Bekah, Samina, and Jacob for answering my never-ending questions on the Hyperverse, Web3 and NFTs, and for providing me with enough resources to enable me to understand what the hyperverse is all about.
 
 
 
