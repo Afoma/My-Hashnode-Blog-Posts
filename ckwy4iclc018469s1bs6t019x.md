@@ -8,7 +8,7 @@ Inside the Web3 rabbit hole, I discovered the seemingly yet unknown, or better p
 
 ## What is the hyperverse?
 
-The hyperverse is an open, decentralized marketplace that is not tied to a single blockchain. This implies that it could work, not only with the ethereum blockchain, but can also work with other blockchains like flow and algorand.
+The hyperverse is an open, decentralized marketplace that is not tied to a single blockchain. This implies that it could work, not only with the ethereum blockchain but can also work with other blockchains like flow and algorand.
 
 The Hyperverse is made up of four features:
 
@@ -34,7 +34,7 @@ Since nobody would want to use something that cannot be trusted. The hyperverse 
 
 ### Discoverability
 
-Since the hyperverse is decentralized, anybody on the hyperverse can built a custom search experience which would help hyperverse developers to easily search for available smart contracts.
+Since the hyperverse is decentralized, anybody on the hyperverse can be built a custom search experience which would help hyperverse developers to easily search for available smart contracts.
 
 ### Monetization
 
@@ -46,25 +46,17 @@ Since there is no hyperverse without smart modules. Let us elaborate more on sma
 ### What are smart modules?
 
 Smart modules are complete foundational packages of smart contracts upon which decentralized applications can be built.
-It can also be understood as the back end upon which the front end interface can be built. 
+It can also be understood as the back end upon which the front-end interface can be built. 
 
 Compare it to APIs which we use in Web2. The backend engineers create APIs, for example, the Google Map API, and front end developers who might not even be working for Google can consume the Google Map API and build their applications upon that API, without needing to create from scratch a geolocation API like Google Map API just for their application, and users with their unique data can interact with the API by typing in their desired locations. 
 
-Another example is the Unsplash API which many front-end developers consume to build their fancy picture gallery websites without having to take pictures of thousands of random people in order to create their random image gallery websites while adding extra functionalities to their websites apart from displaying random images.
+Another example is the Unsplash API which many front-end developers consume to build their fancy picture gallery websites without having to take pictures of thousands of random people to create their random image gallery websites while adding extra functionalities to their websites apart from displaying random images.
 
-In the case of smart modules, the Hyperverse engineers create smart modules, which are composed of a smart contract, metadata, unit tests, and documentation, which could be an NFT marketplace module, and the front end engineers create the UI which will enable different users to interact with those decentralized applications (dapps) with their unique data. In the Hyperverse, this ability of different users with their own data to interact with the dapps built on smart modules is called "multi-tenancy". 
+In the case of smart modules, the Hyperverse engineers create smart modules, which are composed of a smart contract, metadata, unit tests, and documentation, which could be an NFT marketplace module, and the front end engineers create the UI which will enable different users to interact with those decentralized applications (dapps) with their unique data. In the Hyperverse, this ability of different users with their data to interact with the dapps built on smart modules is called "multi-tenancy". 
 
 ## Having had a good understanding of what the hyperverse is, what can I make out of it?
 
-First of all, what drew me into Web3 was Non-Fungible Tokens (NFTs). The story of people making money by selling pixelated artworks in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of artworks, and with this, I could imagine how applicable it could be to the hyperverse. 
-
-### NFT Search Engine Smart Module
-
-My learnings about potential use cases of NFTs have helped me to dream widely about what I would like to do on the hyperverse. 
-
-I would love to build an NFT search smart module on the hyperverse. With this particular smart module, a search engine is designed solely for the discovery of a particular type of NFT, be it art work NFTs, music NFTs, real estate NFTs, medical NFTs, ticketing NFTs, etc.
-
-My motivation for desiring to do this is to create a more streamlined experience for users on the NFT marketplace in order to serve a more enjoyable and efficient experience for users in the marketplace.
+Doing some research for this article helped me to learn of and visualize many amazing things that could be done on the hyperverse. These include but are not limited to :
 
 ### Twitter Smart Module
 
@@ -73,6 +65,15 @@ Twitter is one of my favorite social media applications. I understand it to be a
 However, many articles and reviews have shown the dissatisfaction of people with the user experience of the bird app. With many citing the censorship and banning of accounts whose opinions differed from other groups on Twitter.
 
 With this controversy, I also dream of building a social media smart module on the hyperverse which is very similar to Twitter, and name it Dwitter ( Decentralized Twitter). This way any decision that will be taken will have to be a collective decision based on the majority of users.
+
+### NFT Search Engine Smart Module
+
+First of all, what drew me into Web3 was Non-Fungible Tokens (NFTs). The story of people making money by selling pixelated artworks in the NFT marketplace. However, interviewing so many people and reading up different articles widened my horizon of the many possibilities of NFTs apart from the sale of artworks, and with this, I could imagine how applicable it could be to the hyperverse. 
+ 
+I would love to build an NFT search smart module on the hyperverse. With this particular smart module, a search engine is designed solely for the discovery of a particular type of NFT, be it art work NFTs, music NFTs, real estate NFTs, medical NFTs, ticketing NFTs, etc.
+
+My motivation for desiring to do this is to create a more streamlined experience for users on the NFT marketplace in order to serve a more enjoyable and efficient experience for users in the marketplace.
+
 
 ## Conclusion
 
