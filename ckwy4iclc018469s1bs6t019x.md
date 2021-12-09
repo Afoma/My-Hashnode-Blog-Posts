@@ -41,8 +41,8 @@ Since there is no hypervers without smart modules. Let us elaborate more on smar
 
 ## What are smart modules?
 
-Smart modules are complete foundational packages of smart contracts on which decentralized applications can be built.
-It is purely the back end upon which the front end interface can be built. 
+Smart modules are complete foundational packages of smart contracts upon which decentralized applications can be built.
+It can also be understood as the back end upon which the front end interface can be built. 
 
 Compare it to APIs which we use in Web2. The backend engineers create APIs, for example, the Google Map API, and front end developers who might not even be working for Google can consume the Google Map API and build their applications upon that API, without needing to create from scratch a geolocation API like Google Map API just for their application, and users with their unique data can interact with the API by typing in their desired locations. 
 
