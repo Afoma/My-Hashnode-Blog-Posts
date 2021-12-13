@@ -77,7 +77,9 @@ My motivation for desiring to do this is to create a more streamlined experience
 
 ## Conclusion
 
-My sincerest appreciation goes to the super team at Decentology starting from Nik Kalyani, Bekah, Samina, and Jacob for answering my never-ending questions on the Hyperverse, Web3 and NFTs, and for providing me with enough resources to enable me to understand what the hyperverse is all about.
+My immense gratitude goes to those who read this article to the end. You can check out the  [Decentology](https://www.decentology.com/hyperverse) page to learn more about what they have to offer.
+
+My sincerest appreciation goes to the super team at Decentology starting from Nik Kalyani, Bekah, Samina, and Jacob for answering my never-ending questions on the Hyperverse, Web3, and NFTs, and for providing me with enough resources to enable me to understand what the hyperverse is all about.
 
 
 
