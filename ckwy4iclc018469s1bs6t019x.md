@@ -60,7 +60,7 @@ Doing some research for this article helped me to learn of and visualize many am
 
 ### Twitter Smart Module
 
-Twitter is one of my favorite social media applications. I understand it to be a platform where people can freely air their views share their learnings and be real with the Twitter community without having to appear perfect or too professional to be taken seriously. This characteristic feature of Twitter made it possible for people to criticize poor government policies ( take for instance the popular #Endsars protest in Nigeria ) and even to create a large unsullied political followership among many other things.
+Twitter is one of my favorite social media applications. I understand it to be a platform where people can freely air their views, share their learnings and be real with the Twitter community without having to appear perfect or too professional to be taken seriously. This characteristic feature of Twitter made it possible for people to criticize poor government policies ( take for instance the popular #Endsars protest in Nigeria ) and even to create a large unsullied political followership among many other things.
 
 However, many articles and reviews have shown the dissatisfaction of people with the user experience of the bird app. With many citing the censorship and banning of accounts whose opinions differed from other groups on Twitter.
 
