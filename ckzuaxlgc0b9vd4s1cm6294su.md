@@ -6,7 +6,7 @@ Hello everyone, my name is Afoma Orji, I am a front-end developer, technical wri
 
 ### Why would I be doing this?
 
-This is because it is raining Web3 everywhere; on Twitter, real-life discussions, Google searches, Youtube, literally everywhere and when you decide to pay close attention to those real-life conversations or search try to get a basic understanding of what is being talked about by reading tweets on Twitter or you bumped into an article on Google, you could end up being more confused than you were before trying to understand what it could be all about because there are certain keywords and phrases that are used that you are not familiar with and this leads to a break in concentration or something like that.
+This is because it is raining Web3 everywhere; on Twitter, real-life discussions, Google searches, YouTube, literally everywhere and when you decide to pay close attention to those real-life conversations or try to get a basic understanding of what is being talked about by reading tweets on Twitter or you bumped into an article on Google, you could end up being more confused than you were before trying to understand what it could be all about because there are certain keywords and phrases that are used that you are not familiar with and this leads to a break in concentration or something like that.
 So, I noted down important keywords that mostly come up in  Web3 discussions and decided to read up and share with you their meanings in a simplified manner, to make learning easier and more fun.
 This article was simplified to make it understandable even for people who are completely new to Web3.
 So get a glass of milk and enjoy!
@@ -27,7 +27,7 @@ It is the third phase of the web, succeeding Web2 which succeeded Web1. It is ch
 
 ## Metaverse
 
-This word has been used a lot in crypto spaces, however, it is very likely those who use it in their sentences don't know its meaning. It is a genral term for online splaces that allow people to communicate in a more interactive way than a traditional application or website. Common applications of it is in the use of virtual reality (VR) gadgets and virtual environments (for discussions and video games).
+This word has been used a lot in crypto spaces, however, it is very likely those who use it in their sentences don't know its meaning. It is a genral term for online spaces that allow people to communicate in a more interactive way than a traditional application or website. Common applications of it is in the use of virtual reality (VR) gadgets and virtual environments (for discussions and video games).
 
 ## Blockchain
 
@@ -79,7 +79,7 @@ It is the process of converting valuable assets into tokens for use on the block
 
 ## DAO
 
-Fully written as Decentralized Autonomous Organization. It is a leaderless organization of people with the same mission who have entered into a contract with one another to attain the same goal, which can be learning about Web3, buying an artifact, etc, and it usually exists to raise money for a specific purpose. Decisions are made by the entire community, through votes, rather than by a single entity.
+Fully written as Decentralized Autonomous Organization. It is a leaderless organization of people with the same mission who have entered into a contract with one another to attain the same goal, which can be learning about Web3, buying an artifact, and so on, and it usually exists to raise money for a specific purpose. Decisions are made by the entire community, through votes, rather than by a single entity.
 
 ## DeFi 
 
@@ -113,7 +113,7 @@ It is a digital asset that doesn't have its own blockchain but rather uses anoth
 
 ## NFT
 
-It is written fully as Non-Fungible-Token. As the name 'Non-Fungible' implies, it's a token created on a blockchain whose attributes are irreplaceable and that links to a piece of data (music concerts, medical records, digital arts, etc).
+It is written fully as Non-Fungible-Token. As the name 'Non-Fungible' implies, it's a token created on a blockchain whose attributes are irreplaceable and that links to a piece of data (music concerts, medical records, digital arts, and so on).
 
 
 ## Double-spending
