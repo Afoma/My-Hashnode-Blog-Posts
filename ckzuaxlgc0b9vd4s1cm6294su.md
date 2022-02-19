@@ -180,7 +180,9 @@ It is a method of validating transactions on the blockchain done by taking the o
 
 This system requires participants to lock in their crypto assets in order to get registered on the node. Once the gathered tokens are used for transactions, every registered member gets equally rewarded. 
 
+## Airdrop
 
+It is a marketing stunt that involves sending coins or tokens to wallet addresses in order to promote awareness of a DAO, or new virtual currency.
 
 
 
