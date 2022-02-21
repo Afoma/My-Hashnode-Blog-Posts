@@ -27,7 +27,7 @@ It is the third phase of the web, succeeding Web2 which succeeded Web1. It is ch
 
 ## Metaverse
 
-This word has been used a lot in crypto spaces, however, it is very likely those who use it in their sentences don't know its meaning. It is a genral term for online spaces that allow people to communicate in a more interactive way than a traditional application or website. Common applications of it is in the use of virtual reality (VR) gadgets and virtual environments (for discussions and video games).
+This word has been used a lot in crypto spaces, however, it is very likely those who use it in their sentences don't know its meaning. It is a general term for online spaces that allow people to communicate in a more interactive way than a traditional application or website. Common applications of it is in the use of virtual reality (VR) gadgets and virtual environments (for discussions and video games).
 
 ## Blockchain
 
