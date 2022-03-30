@@ -26,7 +26,6 @@ Yes, Cami wrote that junior developers were welcome to join her team, but I was 
 
 There was actually no time to be selective when it came to joining a team. The rule was to have a minimum of two and a maximum of five people in a team. We were thirty-five women with different skillsets, experience levels, and from different time zones. I was the last person to join my team, Team B comprising Ana, Brenda, Kristen, and Ulrike.
 
-
 It took my team about 3 days to decide on the final project idea. Kristen came up with our amazing project idea which was to create a Wordle game that will enable users to add emojis that reflected their mood after seeing their result and mint their result as an NFT on the blockchain and donate a tiny sum to either of the four charity organizations that were listed on our website.
 
 The hackathon lasted for seven days but we managed to submit our project a few hours before the deadline.
