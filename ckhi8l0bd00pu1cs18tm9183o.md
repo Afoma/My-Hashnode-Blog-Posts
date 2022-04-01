@@ -1,4 +1,4 @@
-## Stand in Line
+## Basic JavaScript: Stand in Line
 
 <figure>
 <img src="https://media.giphy.com/media/M76XI0UYkJkys/giphy.gif" alt="sound of music farewell song gif">
