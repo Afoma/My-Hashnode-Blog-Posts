@@ -79,6 +79,7 @@ Finally, this hackathon taught me what it meant to be a senior. I learned that b
 
 Before this hackathon, I thought I enjoyed working alone. I thought I learned better by working alone. But this new experience changed my mindset. If this is how teams are, I now want to work in teams. Thank you, friends. 
 
+
 ### Appreciation
 
 My sincerest appreciation goes to @[Camila Ramos](@camiinthisthang) for organizing 35 women to realize their potential. Massive thanks to DeveloperDAO for organizing this hackathon and to the sponsors; Decentology, Polygon, Filecoin, Livepeer, Radicle, Hedera, and The Graph.
