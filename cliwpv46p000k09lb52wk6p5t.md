@@ -42,11 +42,10 @@ We'd go to our terminal and run the `graph init (subgraph name)` command, mine w
 
 ![select Ethereum as the protocol](https://cdn.hashnode.com/res/hashnode/image/upload/v1686661335240/15f7227e-aad1-4e26-8ac4-8f4a37dfbd13.png align="center")
 
-then select Subgraph Studio  
+then select Subgraph Studio
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686661418073/b3a4f94a-f3f9-4fa7-84ea-4dcd5c0a548a.png align="center")
 
-  
 The name of your subgraph will be auto-filled out for you, so I'd be seeing 'crowd', and click enter. Select mainnet
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686661521203/174a9056-19fa-4796-ac0e-893f1977c475.png align="center")
@@ -236,6 +235,6 @@ Finally, keep in mind that you do not have to be a coding expert to build this s
 
 I would love to see the subgraphs you would build from following the guide in this article. Please tag me on my Twitter handle or LinkedIn to show me what you built.
 
-Here is the GitHub repository of my subgraph. Feel free to leave a star. Do have a nice day.
+Here is the GitHub repository of my subgraph. Feel free to leave a star. Have a nice day.
 
 %[https://github.com/Afoma/crowd/tree/master]
